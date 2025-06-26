@@ -1,0 +1,9 @@
+awesome
+alacritty
+xorg-xinit
+xorg-xrandr
+xterm
+terminus-font
+gnu-free-fonts
+ttf-liberation
+xsel
