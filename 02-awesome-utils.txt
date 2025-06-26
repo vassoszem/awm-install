@@ -8,6 +8,7 @@ git
 luarocks
 man-db
 man-pages
+network-manager-applet
 nitrogen
 npm
 nvidia-settings
