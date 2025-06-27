@@ -1,12 +1,12 @@
 awesome
-alacritty
+gnu-free-fonts
+terminus-font
+ttf-liberation
+wezterm
 xorg-xinit
 xorg-xrandr
-xterm
-terminus-font
-gnu-free-fonts
-ttf-liberation
 xsel
+xterm
 ffmpegthumbnailer
 gvfs
 libgepub
