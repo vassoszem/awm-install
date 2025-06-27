@@ -1,3 +1,4 @@
 gnome-disk-utility
 neovim
 ristretto
+yazi

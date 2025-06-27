@@ -49,6 +49,7 @@ zsh
 gnome-disk-utility
 neovim
 ristretto
+yazi
 gtk-engine-murrine
 lxappearance-gtk3
 noto-fonts-emoji
