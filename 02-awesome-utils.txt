@@ -21,5 +21,6 @@ ripgrep
 rofi
 starship
 stow
+timeshift
 volumeicon
 zsh

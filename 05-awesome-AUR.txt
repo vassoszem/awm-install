@@ -1,3 +1,4 @@
 floorp-bin
 papirus-folders
+timeshift-autosnap
 yay
