@@ -20,4 +20,5 @@ ripgrep
 rofi
 starship
 stow
+volumeicon
 zsh
