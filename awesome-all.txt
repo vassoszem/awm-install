@@ -36,6 +36,7 @@ npm
 nvidia-settings
 nvidia-utils
 opencl-nvidia
+pacman-contrib
 picom
 polkit-gnome
 ripgrep
