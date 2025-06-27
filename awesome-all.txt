@@ -51,5 +51,6 @@ neovim
 ristretto
 gtk-engine-murrine
 lxappearance-gtk3
+noto-fonts-emoji
 ttf-jetbrains-mono-nerd
 ttf-roboto
