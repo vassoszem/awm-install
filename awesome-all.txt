@@ -1,8 +1,8 @@
-alacritty
 awesome
 gnu-free-fonts
 terminus-font
 ttf-liberation
+wezterm
 xorg-xinit
 xorg-xrandr
 xsel
@@ -20,13 +20,17 @@ thunar-volman
 tumbler
 xarchiver
 xdg-user-dirs
+7zip
 alsa-utils
 bash-completion
 eza
 fastfetch
+fd
 firewalld
 fzf
 git
+imagemagick
+jq
 luarocks
 man-db
 man-pages
@@ -45,6 +49,7 @@ starship
 stow
 timeshift
 volumeicon
+zoxide
 zsh
 gnome-disk-utility
 neovim

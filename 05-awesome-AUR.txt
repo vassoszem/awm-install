@@ -1,3 +1,4 @@
 floorp-bin
+resvg
 timeshift-autosnap
 yay
