@@ -20,17 +20,13 @@ thunar-volman
 tumbler
 xarchiver
 xdg-user-dirs
-7zip
 alsa-utils
-bash-completion
 eza
 fastfetch
 fd
 firewalld
 fzf
 git
-imagemagick
-jq
 luarocks
 man-db
 man-pages
