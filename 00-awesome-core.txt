@@ -1,8 +1,8 @@
+alacritty
 awesome
 gnu-free-fonts
 terminus-font
 ttf-liberation
-wezterm
 xorg-xinit
 xorg-xrandr
 xsel
