@@ -1,0 +1,6 @@
+galculator
+gnome-disk-utility
+gpick
+libreoffice-fresh
+neovim
+ristretto
