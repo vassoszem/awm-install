@@ -1,4 +1,6 @@
 alsa-utils
+brightnessctl
+ddcutil
 eza
 fastfetch
 firewalld
