@@ -27,7 +27,7 @@ eza
 fastfetch
 firewalld
 fzf
-gita
+git
 gst-libav
 lazygit
 luarocks
