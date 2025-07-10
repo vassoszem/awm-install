@@ -21,11 +21,14 @@ tumbler
 xarchiver
 xdg-user-dirs
 alsa-utils
+brightnessctl
+ddcutil
 eza
 fastfetch
 firewalld
 fzf
 git
+lazygit
 luarocks
 man-db
 man-pages
@@ -45,6 +48,7 @@ stow
 timeshift
 volumeicon
 zsh
+font-manager
 galculator
 gnome-disk-utility
 gpick

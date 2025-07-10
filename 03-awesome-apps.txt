@@ -1,3 +1,4 @@
+font-manager
 galculator
 gnome-disk-utility
 gpick
