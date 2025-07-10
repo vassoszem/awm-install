@@ -6,6 +6,7 @@ fastfetch
 firewalld
 fzf
 git
+gst-libav
 lazygit
 luarocks
 man-db

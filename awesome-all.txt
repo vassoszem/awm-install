@@ -27,7 +27,8 @@ eza
 fastfetch
 firewalld
 fzf
-git
+gita
+gst-libav
 lazygit
 luarocks
 man-db
@@ -54,6 +55,7 @@ gnome-disk-utility
 gpick
 libreoffice-fresh
 neovim
+parole
 ristretto
 gtk-engine-murrine
 lxappearance-gtk3
